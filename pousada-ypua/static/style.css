@@ -20,6 +20,7 @@ body, html {
 
 header {
     background-color: #707070e6;
+    font-size: 20px;
     color: white;
     text-align: center;
     padding: 20px;
@@ -135,7 +136,7 @@ ul li {
     top: 20px;
     right: 20px;
     padding: 10px 15px;
-    background-color: #dc3545;
+    background-color: #9c0909;
     color: white;
     border: none;
     border-radius: 5px;
@@ -203,7 +204,7 @@ ul li {
     bottom: 20px;
     right: 20px;
     padding: 15px;
-    background-color: #434247;
+    background-color: #a50c1b;
     color: #ffffff;
     border: none;
     border-radius: 50%;
